@@ -116,7 +116,6 @@ body {
 .contacts-email,
 .contacts-tel {
   color: var(--primary-text-color);
-  font-weight: 400;
   line-height: 1.5;
   font-style: normal;
 }
@@ -500,7 +499,7 @@ body {
 .footer-list {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
   /* margin-top: 8px; */
 }
 .social-icon {
